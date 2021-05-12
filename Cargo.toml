@@ -1,0 +1,11 @@
+[package]
+name = "rid"
+version = "0.1.0"
+authors = ["Thorsten Lorenz <thlorenz@gmx.de>"]
+edition = "2018"
+description = "Standin crate until rid is open sourced and published."
+repository = "https://github.com/thlorenz/rid-examples"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
